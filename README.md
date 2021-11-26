@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @solonether
-- 👀 I’m interested in learning to code, without failing school
+- 👀 I’m interested in learning to code
 - 🌱 I’m currently learning C
 - 💞️ I'll most likely share some projects/dotfiles for my i3 rice configuration
 - 📫 If you want to, hit me up at tricaspring@gmail.com
